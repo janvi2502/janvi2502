@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Find Jobs](https://github.com/janvi2502/FindJobsBackend)
 
-- 🌱 I’m currently learning **Spring Boot, Spring MVC, Java Microservices**
+- 🌱 I’m currently learning **Spring Boot, Spring MVC, Java Microservices, Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/janvi2502](https://github.com/janvi2502)
 
